@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "TCPServer": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
